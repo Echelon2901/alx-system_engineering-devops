@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -lan -A)"
+echo "$(ls -ln -A)"
