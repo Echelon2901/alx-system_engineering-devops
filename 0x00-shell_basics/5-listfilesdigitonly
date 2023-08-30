@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -ln -A)"
+echo "$(ls -ln -a)"
